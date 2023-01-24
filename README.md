@@ -44,6 +44,6 @@ SQLAlchemy is the Python SQL toolkit and Object Relational Mapper that gives app
 }
 
 
-7, Folder py is containe all files related this application , it containe a Dockerfile , using this file can build and using aws command can tag and upload image to ECR
+7, Its contain two files 1, main.py  and Dockerfile is containe all files related this application , it containe a Dockerfile , using this file can build and using aws command can tag and upload image to ECR
 
 
